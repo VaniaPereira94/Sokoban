@@ -1,0 +1,10 @@
+﻿        XXXXXXXX 
+        X     iX 
+        X BXB XX 
+        X B  BX  
+        XXB B X  
+XXXXXXXXX B X XXX
+X....  XX B  B  X
+XX...    B  B   X
+X....  XXXXXXXXXX
+XXXXXXXX         

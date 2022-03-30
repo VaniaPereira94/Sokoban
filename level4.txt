@@ -1,0 +1,14 @@
+﻿           XXXXXXXX
+           X  ....X
+XXXXXXXXXXXX  ....X
+X    X  B B   ....X
+X BBBXB  B X  ....X
+X  B     B X  ....X
+X BB XB B BXXXXXXXX
+X  B X     X       
+XX XXXXXXXXX       
+X    X    XX       
+X     B   XX       
+X  BBXBB  iX       
+X    X    XX       
+XXXXXXXXXXX        
